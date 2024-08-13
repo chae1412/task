@@ -1,0 +1,9 @@
+City,Temperature (C),Humidity (%),Weather Description
+New York,70°,--/65°,Clear
+London,60°,80°/63°,Clear
+Tokyo,94°,95°/82°,Mostly Cloudy
+Sydney,65°,67°/58°,Cloudy
+Paris,70°,85°/66°,Partly Cloudy
+Beijing,80°,81°/71°,Fair
+São Paulo,49°,--/45°,Fair
+Mumbai,84°,88°/81°,Fog
